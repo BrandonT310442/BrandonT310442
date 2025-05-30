@@ -12,7 +12,7 @@
 - ⚡ Fun fact **I can solve a Rubik's cube in under 20 seconds!**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brandont310442&show_icons=true&locale=en&layout=compact" alt="brandont310442" /></p>
-
+![snake gif](https://github.com/BrandonT310442/BrandonT310442/blob/output/github-contribution-grid-snake.gif)
 <br>
 <br>
 <h3 align="left">Connect with me:</h3>
