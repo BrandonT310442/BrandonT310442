@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Swift**
 
-- 👯 I’m looking to collaborate on **Any innovative projects!**
+- 👯 I’m looking to collaborate on **any interesting and innovative projects!**
 
 - 👨‍💻 All of my projects are available at [https://brandontai.onrender.com/](https://brandontai.onrender.com/)
 
