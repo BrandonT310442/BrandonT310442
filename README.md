@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brandon</h1>
-<h3 align="center">I'm currently studying at the University of Toronto. I'm a passionate software developer with a passion for building innovative solutions to real-world problems.</h3>
+<h3 align="center">I love to build things that move fast, break rules, and push limits. Theere is nothing more that I love to do.  I'm currenlty worrking as a Software Engineer at Besimple AI (YC X25). When I'm not building, I'm wathcing the Raptors and Blue Jays!</h3>
 
-- 🔭 I’m currently a Software Engineer at **Sentri AI & Stryde Health**
-
-- 🌱 I’m currently learning **Swift**
-
-- 👯 I’m looking to collaborate on **any interesting and innovative projects!**
-
-- 👨‍💻 All of my projects are available at [https://brandontai.onrender.com/](https://brandontai.onrender.com/)
-
-- ⚡ Fun fact **I can solve a Rubik's cube in under 20 seconds!**
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brandont310442&show_icons=true&locale=en&layout=compact" alt="brandont310442" /></p>
