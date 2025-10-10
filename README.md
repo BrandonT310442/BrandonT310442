@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Brandon</h1>
-<p align="center">I love to <br>build</br> things that move fast, break rules, and push limits. Theere is nothing more that I love to do.  I'm currenlty worrking as a Software Engineer at Besimple AI (YC X25). When I'm not building, I'm wathcing the Raptors and Blue Jays!</p>
+
+<p align="center">
+  I love to <b>build</b> things that move fast, break rules, and push limits.<br>
+  There’s nothing I enjoy more.<br><br>
+  I'm currently working as a <b>Software Engineer</b> at <a href="https://www.ycombinator.com/companies/besimple-ai">Besimple AI (YC X25)</a>.<br>
+  When I’m not building, you’ll probably find me watching the <b>Raptors</b> or <b>Blue Jays</b>.
+</p>
 
 
 
