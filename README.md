@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brandon</h1>
 
-
-- I love to **build** things that move fast, break rules, and push limits.  
-- I'm currently working as a **Software Engineer** at [Besimple AI (YC X25)](https://www.ycombinator.com/companies/besimple-ai).  
-- When I’m not building, I’m watching the **Raptors** or **Blue Jays**!
-
+I like to build cool things.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brandont310442&show_icons=true&locale=en&layout=compact" alt="brandont310442" /></p>
 
